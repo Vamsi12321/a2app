@@ -1,7 +1,7 @@
 
-// import { BrowserRouter,Routes,Route } from "react-router-dom"
-// import IframeChild from "./components/IframeChild"
-// import IframeParent from "./components/IframeParent"
+ import { BrowserRouter,Routes,Route } from "react-router-dom"
+ import IframeChild from "./components/IframeChild"
+ import IframeParent from "./components/IframeParent"
 
 export default function App(){
   return(
